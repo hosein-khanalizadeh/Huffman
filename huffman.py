@@ -1,5 +1,5 @@
 #!/usr/bin/python
-'''Created by l3L4CK H4CK3l2'''
+'''Created by hosein-khanalizadeh'''
 
 import sys
 
