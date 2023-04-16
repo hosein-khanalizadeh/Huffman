@@ -1,2 +1,2 @@
 # Huffman
-huffman algorithm with python الگوریتم هافمن به زبان پایتون
+huffman algorithm with python
